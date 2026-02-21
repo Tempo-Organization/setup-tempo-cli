@@ -20,4 +20,4 @@ runs:
 
     - name: Install tempo-cli
       shell: ${{ inputs.shell }}
-      run: uv tool install git+https://www.github.com/Tempo-Organization/tempo-cl
+      run: uv tool install git+https://www.github.com/Tempo-Organization/tempo-cli
